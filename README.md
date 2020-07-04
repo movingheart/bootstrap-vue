@@ -1,5 +1,6 @@
 # search
 在vue中使用bootstrap4样式, 这里只是简单使用其样式，而非使用bootstrap-vue插件。
+[相关文章](http://blog.easytolearn.cn/post/56/)
 
 ## Project setup
 ```
